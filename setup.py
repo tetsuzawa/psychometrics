@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="psychometrics",
-    version="0.1.0",
+    version="0.1.1",
     description="psychometrics is a library for psychological measurement experiment",
     packages=["psychometrics"],
     install_requires=open("requirements.txt").read().splitlines(),
